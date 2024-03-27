@@ -11,7 +11,7 @@ class CCB extends Frame implements ActionListener {
 		super("CHECKBOX DEMO");
 		t1=new TextField(10);
 		bsel=new Button("SELECTED");
-		b2=new Button("Exit");
+		b3=new Button("Exit");
 		c1=new Checkbox("UG");
 		c1=new Checkbox("PG");
 		c1=new Checkbox("PHD");
